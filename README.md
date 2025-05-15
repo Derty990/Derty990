@@ -1,7 +1,8 @@
-### I'm a passionate Java programmer with a deep interest in exploring advanced technologies within the Java ecosystem, including testing frameworks, collections, Spring, Spring Boot, Spring Rest, ORM, Hibernate, and Docker. Currently, I'm working on expanding my skills in these areas to build robust and efficient applications.
+### 👨‍💻 I'm a passionate Java developer with a deep interest in exploring advanced technologies within the Java ecosystem. This includes a focus on testing frameworks, collections, Spring (Spring Boot, Spring Rest), ORM with Hibernate, and Docker. I am currently working on expanding my skills in these areas to build robust and efficient applications.
 
-### Outside of programming, I enjoy reading books and I'm a gaming enthusiast. I spend my free time building custom PC setups. Additionally, I share insights and updates on the latest tech trends on vivitech.pl, where I cover topics ranging from hardware releases to software innovations.
+### 💡 Outside of programming, I'm an avid reader and a gaming enthusiast. I also enjoy spending my free time building custom PC setups. Additionally, I share insights and updates on the latest tech trends on vivitech.pl, where I cover topics ranging from hardware releases to software innovations.
 
+### 🔍 Currently, I am looking for an internship or a junior developer position, available for remote work or in Kraków/Katowice. While I would ideally love to work on projects related to Java, I'm open to exploring opportunities in other areas of software development as well. Feel free to reach out if you think my profile aligns with your needs.
 
 <!--
 **Derty990/Derty990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
